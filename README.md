@@ -1,19 +1,50 @@
-# Hi, I'm rizqianymore 👋
+# rizqianymore
 
-Backend Developer & Automation Specialist building high-performance APIs, serverless workers, and modular WhatsApp bots.
+> Backend Developer & Automation Specialist
 
-## Focus Areas
-- **APIs & Microservices**: Node.js, Express, TypeScript
+---
+
+## Overview
+
+Backend engineer focused on building scalable APIs, serverless architectures, and automation tools. Specialized in Node.js ecosystems and WhatsApp bot development.
+
+## Technical Expertise
+
+### Core Technologies
+- **Languages**: JavaScript (ES6+), TypeScript
+- **Runtime**: Node.js
+- **Frameworks**: Express.js
+
+### Infrastructure & Services
 - **Serverless**: Cloudflare Workers
-- **Automation**: WhatsApp bots (Baileys), CLI tools
-- **Data**: MongoDB, Redis, JSON-based storage
+- **Databases**: MongoDB, Redis
+- **APIs**: RESTful design, Axios
 
-## Currently
-- Learning advanced Cloudflare Workers & secure API gateways
-- Open to collaborating on automation libraries & dev tools
+### DevOps & Tooling
+- Version Control: Git, GitHub
+- Environment: Linux, Bash scripting
 
-## Tech Stack
-`Node.js` `TypeScript` `Express` `Cloudflare Workers` `MongoDB` `Redis` `Git` `Linux`
+## Current Projects
 
-## Connect
-[GitHub](https://github.com/rizqianymore)
+### Palantir Bots
+Modular WhatsApp bot framework built with Baileys API. Features include:
+- Plugin-based architecture
+- Persistent state management
+- Multi-session support
+
+### Microservices Development
+Custom API services focusing on:
+- High-performance endpoints
+- Secure gateway configurations
+- Canvas image manipulation
+
+## Open to Collaboration
+
+Interested in contributing to:
+- Open-source automation libraries
+- Developer tooling improvements
+- API design best practices
+
+---
+
+**GitHub**: [github.com/rizqianymore](https://github.com/rizqianymore)
